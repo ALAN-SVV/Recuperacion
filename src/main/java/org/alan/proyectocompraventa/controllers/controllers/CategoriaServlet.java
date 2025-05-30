@@ -12,7 +12,7 @@ import org.alan.proyectocompraventa.controllers.services.CategoriaService;
 import org.alan.proyectocompraventa.controllers.services.CategoriaServiceJdbcImplement;
 import org.alan.proyectocompraventa.controllers.services.LoginService;
 import org.alan.proyectocompraventa.controllers.services.LoginServiceSessionImplement;
-import org.anderson.proyectocompraventa.controllers.services.*;
+import org.alan.proyectocompraventa.controllers.services.*;
 
 import java.io.IOException;
 import java.sql.Connection;
